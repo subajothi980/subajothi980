@@ -75,9 +75,11 @@ https://github.com/subashini-jothilingam/snowflake-pipeline-using-cortex-code
 ---
 
 ## 📊 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subajothi980" />
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subashini-jothilingam&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 ## 🎯 Currently Learning
