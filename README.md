@@ -69,7 +69,7 @@ AI-powered data pipeline using Snowflake Cortex and Python.
 * GitHub Actions
 
 Repository:
-https://github.com/subajothi980/snowflake-pipeline-using-cortex-code
+https://github.com/subashini-jothilingam/snowflake-pipeline-using-cortex-code
 
 ---
 
